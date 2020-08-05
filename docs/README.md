@@ -1,6 +1,6 @@
 # Welcome to HELL
 
-HELL - Heavenly Esoteric Little Meta Schemer for Esoteric Languages implemented in Haskell/Eta
+HELL - Heavenly Esoteric Little Logician for Esoteric Languages implemented in Haskell/Eta
 
 ## For User
 * [INSTALL](INSTALL.md) - How to download, test and run.
