@@ -2,9 +2,9 @@
 
 **HELLLL** - Heavenly Esoteric Little Logician Linear Lisp for Esoteric Languages implemented in Haskell/Eta
 
-**LPS** - Little Pre Schemer
+**HELPS** - Heavenly Esoteric Little Pre Schemer for Esoteric Languages implemented in Haskell/Eta
 
-**SPL** - Simple Programing Language
+**HSPSPL** - Simple Pretty Language
 
 ## For User
 * [INSTALL](INSTALL.md) - How to download, test and run.
