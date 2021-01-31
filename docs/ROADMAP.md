@@ -4,4 +4,4 @@
 
 For short version see [TODO](TODO.md).
 
-[Write You A Haskell](https://github.com/sdiehl/write-you-a-haskell)
+[Write You A Haskell](https://github.com/helvm/write-you-a-haskell)
