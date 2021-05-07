@@ -1,12 +1,10 @@
-# Welcome to HELLLL
+# Welcome to 🚒 🍳 HELLLL
 
-**HELLLL** - Heavenly Esoteric Little Logician Linear Lisp for Esoteric Languages implemented in Haskell/Eta
+**🚒 🍳 HELLLL** - Heavenly Esoteric Little Logician Linear Lisp for Esoteric Languages implemented in Haskell/Eta
 
 **HELPS** - Heavenly Esoteric Little Pre Schemer for Esoteric Languages implemented in Haskell/Eta
 
 **HSPSPL** - Simple Pretty Language
-
-**HELMA**
 
 ## For User
 * [INSTALL](INSTALL.md) - How to download, test and run.
