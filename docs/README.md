@@ -8,6 +8,7 @@
 * [NEWS](NEWS.md) - New features.
 * [BUGS](BUGS.md) - Know bugs to fix.
 * [FAQ](FAQ.md) -  Frequently Asked Questions & Frequently Given Answers.
+* [Blog](https://writeonly.github.io/projects/hell) - in Polish.
 
 ## For Developers
 
