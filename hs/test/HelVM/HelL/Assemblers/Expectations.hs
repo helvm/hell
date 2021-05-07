@@ -1,11 +1,11 @@
-module HelVM.HelMS.Assemblers.Expectations (
+module HelVM.HelL.Assemblers.Expectations (
   shouldBeDo,
   shouldParseReturn,
   goldenShouldBe,
   goldenShouldParse
 ) where
 
-import HelVM.HelMS.Common.API
+import HelVM.HelL.Common.API
 
 import Test.Hspec
 import Test.Hspec.Attoparsec
