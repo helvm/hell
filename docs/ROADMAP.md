@@ -8,4 +8,5 @@ For short version see [TODO](TODO.md).
 
 You have to be a Bastard to write in Bloody language
 
-Compiler [Fun tu Rust]
+Compiler Fun to Rust
+Compile PureScript to Rust
